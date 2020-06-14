@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on alexisnotonffire</title>
+    <link>/post/</link>
+    <description>Recent content in Post on alexisnotonffire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2020 00:49:15 +0100</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello-world</title>
+      <link>/post/hello-world/</link>
+      <pubDate>Sat, 13 Jun 2020 13:54:19 +0100</pubDate>
+      
+      <guid>/post/hello-world/</guid>
+      <description>hello-world It wouldn&amp;rsquo;t be a tech project without this.
+I&amp;rsquo;m Alex and I enjoy messing around with pretty much anything to do with data and analytics. I currently work in business intelligence and hope to transition into a data science path.
+My core skillset is:
+ SQL Python Tableau  My work environment requires:
+ Engagement with agile process Work with containers Delivery within CD and manual release frameworks Effective communication with team and stakeholders Task priorisation  :octocat:</description>
+    </item>
+    
+  </channel>
+</rss>

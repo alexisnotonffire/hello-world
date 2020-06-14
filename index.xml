@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alexisnotonffire</title>
+    <link>/</link>
+    <description>Recent content on alexisnotonffire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jun 2020 00:42:35 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello-world</title>
+      <link>/project/hello-world/</link>
+      <pubDate>Sun, 14 Jun 2020 01:47:54 +0100</pubDate>
+      
+      <guid>/project/hello-world/</guid>
+      <description>hello-world A personal site used to explore static site generation (Hugo) and fundamental webdev.   STATUS: DEV
+SOURCE:</description>
+    </item>
+    
+    <item>
+      <title>hello-world</title>
+      <link>/post/hello-world/</link>
+      <pubDate>Sat, 13 Jun 2020 13:54:19 +0100</pubDate>
+      
+      <guid>/post/hello-world/</guid>
+      <description>hello-world It wouldn&amp;rsquo;t be a tech project without this.
+I&amp;rsquo;m Alex and I enjoy messing around with pretty much anything to do with data and analytics. I currently work in business intelligence and hope to transition into a data science path.
+My core skillset is:
+ SQL Python Tableau  My work environment requires:
+ Engagement with agile process Work with containers Delivery within CD and manual release frameworks Effective communication with team and stakeholders Task priorisation  :octocat:</description>
+    </item>
+    
+  </channel>
+</rss>
