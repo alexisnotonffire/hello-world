@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://alexisnotonffire.github.io/"
 languageCode = "en-us"
 title = "alexisnotonffire"
 theme = "alexio"
