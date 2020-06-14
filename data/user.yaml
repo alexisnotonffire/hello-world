@@ -1,0 +1,11 @@
+name: alex
+img_url: https://example.com/image.png
+socials:
+  - twitter: 
+    icon: twitter
+    img: /img/twitter.svg
+    url: https://twitter.com/alexisnotonffire
+  - github:
+    icon: github
+    img: /img/github.svg
+    url: https://github.com/alexisnotonffire

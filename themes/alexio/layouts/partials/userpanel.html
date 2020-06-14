@@ -1,0 +1,7 @@
+<div class="userpanel">
+  <p>{{ .Site.Data.user.img_url }}</p>
+  <h3>{{ .Site.Data.user.name }}</h3>
+  {{ range .Site.Data.user.socials }}
+    {{ partial "social.html" . }}
+  {{ end }}
+</div>

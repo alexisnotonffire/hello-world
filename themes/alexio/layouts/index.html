@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <div>
+    {{ partial "userpanel.html" . }}
+    <div class="showcase">
+      <h3>{{ .Site.Data.showcase.title }}</h3>
+      {{ range .Sections }}
+       {{ partial "showpanel.html" . }}
+      {{ end }}
+    </div>
+  </div>
+{{ end }}
